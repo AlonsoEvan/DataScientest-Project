@@ -10,7 +10,7 @@ Detection of toxic comments: insulting, threatening, obscene ...
 
 Modeling chosen: classification (such as feelings detection, moderation problem)
 
-I also added my file which was used to create my application on a website. This application take in input a comment and give in output if this comment is toxic or not toxic
+I also added my files which was used to create my application on a website. This application take in input a comment and give in output if this comment is toxic or not toxic
 
 The goal of this application is to show my work in a simple way, even for non-initiate.
 
